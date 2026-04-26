@@ -3,7 +3,10 @@
 # Hi, I’m Meshack Kiboma 👋
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Designing+scalable+backend+systems;Building+reliable+APIs+and+software+solutions;Continuously+improving+and+delivering+production+quality+code" alt="Typing animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Engineering+scalable+backend+systems;Developing+reliable+APIs+and+services;Committed+to+clean+code+and+continuous+improvement"
+    alt="Typing animation"
+  />
 </p>
 
 </div>

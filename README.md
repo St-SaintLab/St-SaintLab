@@ -3,19 +3,7 @@
 # Hi, I’m Meshack Kiboma 👋
 
 <p>
-  <a href="https://github.com/St-SaintLab">
-    <img src="https://img.shields.io/badge/GitHub-St-SaintLab-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/meshack-kiboma-aa88152a0">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:omangimeshack@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-</p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+clean+and+modern+web+experiences;Turning+ideas+into+real+projects;Always+learning+and+shipping" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Designing+scalable+backend+systems;Building+reliable+APIs+and+software+solutions;Continuously+improving+and+delivering+production+quality+code" alt="Typing animation" />
 </p>
 
 </div>

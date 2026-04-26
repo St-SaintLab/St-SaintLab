@@ -11,19 +11,6 @@
 
 </div>
 
----
-
-## About Me
-
-- 🔭 I’m currently working on **Workspace project**
-- 🌱 I’m currently learning **Cybesecurity and Network security.**
-- 👯 I’m open to collaborating on **open-source, web, mobile, and backend projects**
-- 💬 Ask me about **anything related to Tech**
-- 📫 Reach me at **omangimeshack@gmail.com**
-- ⚡ Fun fact: **I like solving problems from both the mechanical and digital sides, so I can think like an engineer and build like a creator.**
-
----
-
 ## GitHub Stats
 
 <div align="center">

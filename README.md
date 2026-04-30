@@ -52,16 +52,3 @@
 
 ---
 
-## Contact
-
-<p align="center">
-  <a href="https://github.com/St-SaintLab">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/meshack-kiboma-aa88152a0">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:omangimeshack@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>

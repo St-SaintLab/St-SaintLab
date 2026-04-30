@@ -30,9 +30,6 @@
   <img src="https://streak-stats.demolab.com?user=St-SaintLab&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=St-SaintLab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
 
 </div>
 

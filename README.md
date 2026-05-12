@@ -11,29 +11,27 @@
 
 </div>
 
-## GitHub Stats
+## GitHub 
 
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=St-SaintLab&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=St-SaintLab&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=St-SaintLab&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=St-SaintLab&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=St-SaintLab&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
-
-</div>
-
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=St-SaintLab&hide_border=true&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
 
 ## Tech Stack
 
@@ -51,4 +49,3 @@
 </p>
 
 ---
-
